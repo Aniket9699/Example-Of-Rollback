@@ -1,5 +1,0 @@
-.setting 
-src
-.classpath
-.project
-pom.xml
